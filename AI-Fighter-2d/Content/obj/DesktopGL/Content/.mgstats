@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/donra/Documents/GitHub/AI-Fighter-2d/AI-Fighter-2d/Content/default.spritefont","C:/Users/donra/Documents/GitHub/AI-Fighter-2d/AI-Fighter-2d/Content/bin/DesktopGL/Content/default.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.2525412
+"C:/Users/donra/Documents/GitHub/AI-Fighter-2d/AI-Fighter-2d/Content/Grass-002.png","C:/Users/donra/Documents/GitHub/AI-Fighter-2d/AI-Fighter-2d/Content/bin/DesktopGL/Content/Grass-002.xnb","TextureProcessor","Texture2DContent",530,65621,0.150762
