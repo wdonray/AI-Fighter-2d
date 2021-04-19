@@ -70,7 +70,7 @@ namespace AI_Fighter_2d
         {
             if (SceneManager.Instance.ActiveScene == SceneManager.Scene.MainMenu)
             {
-                GraphicsDevice.Clear(Color.Black);
+                GraphicsDevice.Clear(Color.BlueViolet);
             }
             else
             {
